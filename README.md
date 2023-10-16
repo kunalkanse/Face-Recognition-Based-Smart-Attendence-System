@@ -123,6 +123,7 @@ https://github.com/SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System/a
 ## Contributors
 <a href="https://github.com/SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SHREYASH96OG/Face-Recognition-Based-Smart-Attendence-System" />
+  <img src="https://contrib.rocks/image?repo=kunalkanse/Face-Recognition-Based-Smart-Attendence-System" />
 </a>
 
 
